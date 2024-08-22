@@ -5,6 +5,8 @@ description: Home Page
 hide: true
 ---
 
+{% include nav/home.html %}
+
 # Nitin Balaji's Page
 
 Go to my [Github account](https://github.com/nitinsandiego) !!
