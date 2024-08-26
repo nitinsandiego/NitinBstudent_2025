@@ -3,7 +3,7 @@ toc: false
 layout: post
 title: My Favorite Race Tracks
 description: These are my favorite race tracks. This is part of my process of personalizing my Github page. 
-type: collab
+type: issues
 courses: {csa: {week: 1}}
 ---
 
