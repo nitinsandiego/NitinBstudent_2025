@@ -5,7 +5,7 @@ title: Rock Paper Scissors Game
 description: Play my rock paper wcissors game 
 type: collab
 permalink: /rockpaperscissors
-courses: {csa: {week: 0}}
+courses: {csa: {week: 1}}
 ---
 
 
