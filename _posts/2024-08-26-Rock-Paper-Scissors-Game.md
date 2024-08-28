@@ -20,17 +20,19 @@ courses: {csa: {week: 1}}
     </style>
 </head>
 <body>
+    <h1>Rock, Paper, Scissors Game</h1>
     <p>Choose your move:</p>
     <button onclick="playGame('rock')">Rock</button>
     <button onclick="playGame('paper')">Paper</button>
     <button onclick="playGame('scissors')">Scissors</button>
     <p id="result"></p>
-
-   <script>
+    <p id="rounds">Rounds played: 0</p>
+    <script>
+        var rounds = 0;
         function playGame(playerChoice) {
             var choices = ["rock", "paper", "scissors"];
             var computerChoice = choices[Math.floor(Math.random() * 3)];
-            
+            rounds++;
             if (playerChoice === computerChoice) {
                 document.getElementById("result").textContent = "It's a tie!";
             } else if (
@@ -42,7 +44,8 @@ courses: {csa: {week: 1}}
             } else {
                 document.getElementById("result").textContent = "Computer wins!";
             }
+            document.getElementById("rounds").textContent = "Rounds played: " + rounds;
         }
-</script>
+    </script>
 </body>
 </html>
