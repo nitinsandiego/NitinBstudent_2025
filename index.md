@@ -5,22 +5,71 @@ description: Home Page
 hide: true
 ---
 
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333; /* Ensures text is visible */
+        }
+        .intro {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            color: #333; /* Ensures text is visible */
+        }
+        .gallery {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+        .gallery img {
+            width: 30%;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .projects {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            color: #333; /* Ensures text is visible */
+        }
+        .projects h2 {
+            color: #333; /* Ensures text is visible */
+            margin-bottom: 10px;
+        }
+        .projects ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        .projects ul li {
+            margin-bottom: 8px;
+        }
+    </style>
 # Nitin Balaji's Page
 
 Go to my [Github account](https://github.com/nitinsandiego) !!
 
 ## About Me
+
+<div class="into">
+    <p>
 Hi! This is Nitin Balaji. I am 16 years old. I am an aspiring coder and my dream job is to work as a software engineer. A little about is I am a huge fan of Formula 1 and my favorite F1 Team is Mercedes AMG Petronas Formual 1 Team, and my favorite driver is Lewis Hamilton. Not only am I avid Formula 1 fan, I am also a fan of NFL and my favorite NFL team is the Denver Broncos. Also, I am a sneaker head and love collecting shoes. I am really excited to be taking AP CSA and also excited to take future software courses.
+    </p>
+</div>
 
 ### My Interests
 ![MercedesAMGF1](images/MercedesAMGF1.jpg)
 ![LewisHamilton](images/LewisHamilton.png)
-![DenverBroncos](images/DenverBroncos.png)
 ![Shoes](images/Shoes.png)
-
-## About Me Freeform Picture
-My interests are coding, shoes, especially Jordans, Formula 1, and running.
-![Freeform About Me](images/FreeformAboutMe.png)
 
 <body>
     <h1>Rock, Paper, Scissors Game</h1>
@@ -50,12 +99,4 @@ My interests are coding, shoes, especially Jordans, Formula 1, and running.
             document.getElementById("rounds").textContent = "Rounds played: " + rounds;
         }
     </script>
-</body>
-
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
 </body>
