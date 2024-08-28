@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wikipedia Summary Search with JavaScript
-courses: {csa: {week: 0}}
+courses: {csa: {week: 1}}
 type: collab
 permalink: /wikipediasummary
 toc: false
