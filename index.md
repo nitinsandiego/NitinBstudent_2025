@@ -1,7 +1,7 @@
 ---
 layout: base
-title: Student Home 
-description: Home Page
+title: Nitin Balaji 
+description: This is Nitin Balaji's page
 hide: true
 ---
 
