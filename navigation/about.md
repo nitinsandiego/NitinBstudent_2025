@@ -4,17 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![alt text](/NitinBstudent_2025/images/A3FA4A7B-3DC5-4890-8EF4-1A12097C9AE2_1_105_c.jpeg)
-
-Hello! My name is Nitin Balaji, and I'm 16 years old. From a young age, I've been fascinated by technology and how it shapes our world. This curiosity has driven me to pursue a path in coding, and I’m thrilled about the endless possibilities it offers. My ultimate dream is to work as a software engineer, where I can contribute to innovative projects that make a difference.
-
-Beyond coding, I have a deep passion for Formula 1 racing. The thrill of the race, the precision of the engineering, and the sheer determination of the drivers captivate me. My favorite team is Mercedes AMG Petronas Formula 1 Team, and I admire Lewis Hamilton not just for his incredible talent on the track but also for his resilience and advocacy off it.
-
-But my interests don’t stop there. I’m also an enthusiastic NFL fan, and you’ll often find me cheering for the Denver Broncos. The strategy, teamwork, and excitement of football make it a sport I love to follow.
-
-Another passion of mine is collecting sneakers. As a sneakerhead, I appreciate the artistry and culture behind each pair of shoes. Every collection tells a story, and I enjoy being part of that vibrant community.
-
-Academically, I’m currently taking AP Computer Science A (AP CSA), and I’m eager to dive deeper into software development. I look forward to expanding my knowledge through future software courses, and I’m excited about the journey ahead in the world of tech.
 
 <style>
     /* Style looks pretty compact, trace grid-container and grid-item in the code */
@@ -34,10 +23,28 @@ Academically, I’m currently taking AP Computer Science A (AP CSA), and I’m e
     .grid-item p {
         margin: 5px 0; /* Add some margin for spacing */
     }
+    .image-gallery {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        gap: 10px;
+        }
+    .image-gallery img {
+        max-height: 250px;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+    img{
+        max-height:350px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 </style>
 
 <!-- This grid_container class is for the CSS styling, the id is for JavaScript connection -->
-<br>
+# My Interests
+
 <div class="grid-container" id="grid_container">
     <!-- content will be added here by JavaScript -->
 </div>
@@ -84,3 +91,18 @@ Academically, I’m currently taking AP Computer Science A (AP CSA), and I’m e
         container.appendChild(gridItem);
     }
 </script>
+
+![alt text](/NitinBstudent_2025/images/A3FA4A7B-3DC5-4890-8EF4-1A12097C9AE2_1_105_c.jpeg)
+
+- 🇬🇧 ⚽️ My favorite Premier League team is Manchester City F.C. They have the won the last 4 Premier League titles.
+- 🏎️ 🏁 My favorite F1 team Mercedes AMG Petronas F1 Team. They have won 8 Constructors World Championships and 7 Drivers World Championship.
+- 🇫🇷 ⚽️ My favorite Ligue One team is Paris Saint-Germain F.C. PSG has won the most Ligue One titles with 12 titles.
+- ⛰️ 🏈 My favorite NFL team is the Denver Broncos. They have won 3 Super Bowls.
+
+
+<div class="image-gallery">
+    <img src="{{site.baseurl}}/images/fae3f0b0-a4c4-49ee-90a5-a2b5c47005ed-aad7165e-56aa-423a-9453-3d85bd7bd67c.jpeg" alt="Image 1">
+    <img src="{{site.baseurl}}/images/mercedes-amgwins-formula-1-champions_8.jpg" alt="Image 2">
+    <img src="{{site.baseurl}}/images/Paris-Saint-Germain-celebration-PSG-vs-Dijon-Ligue-1-2019.jpg" alt="Image 3">
+    <img src="{{site.baseurl}}/images/103369676-GettyImages-508989972.jpg" alt="Image 4">
+</div>
