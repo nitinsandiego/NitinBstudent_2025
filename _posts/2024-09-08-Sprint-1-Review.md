@@ -4,7 +4,7 @@ layout: post
 title: Sprint 1 Review
 type: issues
 permalink: /sprint1review
-courses: {csa: {week: 2}}
+courses: {csa: {week: 3}}
 ---
 
 | Skill | Mastered (Y/N) | Rank 1-4 | Ratio | Notes |
