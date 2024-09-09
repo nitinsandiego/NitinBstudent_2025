@@ -1,5 +1,4 @@
 ---
-toc: false
 layout: post
 title: Sprint 1 Review
 type: issues
