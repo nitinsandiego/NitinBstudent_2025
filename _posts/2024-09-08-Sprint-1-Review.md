@@ -7,7 +7,7 @@ comments: true
 courses: {csa: {week: 3}}
 ---
 
-              **Student Skills Checklist**
+**Student Skills Checklist**
 
 - [ ] **Laptop Verification or Cloud Workspace**
   - Rank: 0
