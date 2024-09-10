@@ -65,7 +65,7 @@ courses: {csa: {week: 3}}
         <option value="litecoin">Litecoin (LTC)</option>
     </select>
 
-    <label for="currency">Select Fiat Currency:</label>
+    <label for="currency">Select Currency:</label>
     <select id="currency">
         <option value="usd">US Dollar (USD)</option>
         <option value="eur">Euro (EUR)</option>
