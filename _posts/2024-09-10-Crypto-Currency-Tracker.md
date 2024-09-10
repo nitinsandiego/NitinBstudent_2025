@@ -64,16 +64,13 @@ courses: {csa: {week: 3}}
         <option value="ethereum">Ethereum (ETH)</option>
         <option value="litecoin">Litecoin (LTC)</option>
     </select>
-
     <label for="currency">Select Currency:</label>
     <select id="currency">
         <option value="usd">US Dollar (USD)</option>
         <option value="eur">Euro (EUR)</option>
         <option value="gbp">British Pound (GBP)</option>
     </select>
-
     <button id="fetchPrice">Get Price</button>
-
     <div id="priceResult" class="crypto-info"></div>
 </div>
 
