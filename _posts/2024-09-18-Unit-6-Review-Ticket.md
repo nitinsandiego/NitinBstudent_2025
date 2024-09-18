@@ -32,3 +32,12 @@ Traversing arrays involves accessing each element sequentially:
 - Enhanced for loops are a simplified version of regular for loops, with some twists:
 - No indexing variable
 - Cannot modify the original variables in the array
+
+## Concepts: Searching Arrays (Unit 6.4)
+
+Searching arrays involves finding specific elements within the array:
+
+- Linear search checks each element sequentially
+- Can be used with any unsorted array
+- Returns the index of the element if found, or -1 if not found
+- Efficient for small datasets or unsorted arrays
