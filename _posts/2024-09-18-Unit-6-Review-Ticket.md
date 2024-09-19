@@ -5,10 +5,10 @@ toc: True
 courses: {'csa': {'week': 4}}
 permalink: /csa/unit6/review-ticket
 type: issues
-authors: Nitin, Srini, Akhil, Adithya
+authors: Nitin, Srini, Akhil, Aditya
 ---
 
-## Concepts: Array Creation and Access (Unit 6.1) - Adithya
+## Concepts: Array Creation and Access (Unit 6.1) - Aditya
 
 Arrays are one-dimensional data structures used to store a collection of primitive or object reference data
 
