@@ -6,6 +6,7 @@ courses: {'csa': {'week': 4}}
 permalink: /csa/unit6/review-ticket
 type: issues
 authors: Nitin, Srini, Akhil, Aditya
+comments: true
 ---
 
 ## Concepts: Array Creation and Access (Unit 6.1) - Aditya
