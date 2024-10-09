@@ -6,6 +6,7 @@ toc: True
 courses: {'csa': {'week': 4}}
 permalink: /csa/unit6
 menu: nav/CSA_Units/csa_unit6.html
+comments: true
 ---
 
 # AP Computer Science A - Unit 6 Home Page
