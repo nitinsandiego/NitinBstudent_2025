@@ -17,7 +17,8 @@ courses: {csa: {week: 7}}
 | Personal Notebooks / Blogs | 1             |     0.93      |       ![image](https://github.com/user-attachments/assets/5a66a344-1843-4538-b7ed-98995a55bdf5) |
 | Total                      | 15           |     (1.8+1.778+0.93+7.27+0.93+0.93=13.638     |              |
 
-
+<br>
+<br>
 
 | **Skill**                  | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
