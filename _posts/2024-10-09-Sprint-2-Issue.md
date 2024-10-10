@@ -23,7 +23,7 @@ courses: {csa: {week: 7}}
 |----------------------------|---------------|-----------|--------------|
 | Work Habits (Analytics)    |   1           |    0.9       |   ![image](https://github.com/user-attachments/assets/df4db0c1-c108-4c51-907f-1f9a2d1c6c68)      |
 | Team Planning (Issue)      |   1           |     0.9      |       [Planning and Review](https://nitinsandiego.github.io/NitinBstudent_2025/csa/unit6/review-ticket)       |
-| Presentation Memories      |   1           |    0.93       |        Had a great time working with my time and created a lot of memories.  ![050CAEF0-BD17-4552-8EC7-F2217028D168](https://github.com/user-attachments/assets/8d7e5f3c-7151-4ccc-83c4-4d2a256bba19)   |
+| Presentation Memories      |   1           |    0.93       |        Had a great time working with my team and created a lot of memories.  ![050CAEF0-BD17-4552-8EC7-F2217028D168](https://github.com/user-attachments/assets/8d7e5f3c-7151-4ccc-83c4-4d2a256bba19)   |
 | Grading and Feedback       |   1           |      0.87     |       [Grading sheet](https://docs.google.com/spreadsheets/d/1KP8wh_XzqnP0r-tA84VKDCfYroQ0srIY3iz3hScC3OI/edit?usp=sharing)       |
 | Beyond Perfunctory         |   1           |       0.93    |       We had a very different and unique way of teaching by setting up stations and making it easier to teach with a smaller student group size.     | 
 | Total                      |   5           |       4.53/5=0.906    |              |
