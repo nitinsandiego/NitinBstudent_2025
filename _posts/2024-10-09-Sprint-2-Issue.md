@@ -12,10 +12,10 @@ courses: {csa: {week: 7}}
 | Pull Request (Integration) | 2             |    1.8       |        [Original Pull Request](https://github.com/nighthawkcoders/portfolio_2025/pull/93) & [Edited Pull Request](https://github.com/nighthawkcoders/portfolio_2025/pull/123)      |
 | Relevancy Checklist (Peer) | 2             |      (80/90)*2 =1.778     |      [Tarun's Peer Review](https://github.com/nitinsandiego/NitinBstudent_2025/issues/17#issuecomment-2403039656)       |
 | Lesson (Group)             | 1             |    0.93       |   ![image](https://github.com/user-attachments/assets/868acbf8-3d3c-4f1c-a8cb-89906f06f852) [Team Teach](https://nighthawkcoders.github.io/portfolio_2025/csa/unit6_p3)       |
-| Homework, Popcorn Hacks    | 1 x 8         |     ((0.9+0.9+0.92+0.9+0.93+0.91+0.91+0.9)=7.27      |       [Foundations](https://nitinsandiego.github.io/NitinBstudent_2025/2024/10/07/Sprint-2-Review-Ticket_IPYNB_2_.html#unit-1-primitive-types-1)       |
+| Homework, Popcorn Hacks    | 1 x 8         |     (0.9+0.9+0.92+0.9+0.93+0.91+0.91+0.9)=7.27      |       [Foundations](https://nitinsandiego.github.io/NitinBstudent_2025/2024/10/07/Sprint-2-Review-Ticket_IPYNB_2_.html#unit-1-primitive-types-1)       |
 | Individual Contribution    | 1             |       0.93    |      [Commits on my part of lesson](https://github.com/nitinsandiego/NitinBstudent_2025/commits/main/_notebooks/2024-09-13-Unit-6.2-Lesson.ipynb)        |
 | Personal Notebooks / Blogs | 1             |     0.93      |       ![image](https://github.com/user-attachments/assets/5a66a344-1843-4538-b7ed-98995a55bdf5) |
-| Total                      | 15           |     (1.8+1.778+0.93+7.27+0.93+0.93=13.638     |              |
+| Total                      | 15           |     (1.8+1.778+0.93+7.27+0.93+0.93)=13.638     |              |
 
 <br>
 <br>
