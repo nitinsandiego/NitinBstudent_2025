@@ -32,7 +32,7 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install dependencies
         run: |
-          apt install nbconvert
+          sudo apt install pandoc jupyter jupyter-nbconvert
           # Add any other necessary package installations here
       - name: Execute conversion script
         run: python scripts/convert_notebooks.py
