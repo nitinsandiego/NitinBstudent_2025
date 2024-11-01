@@ -2,9 +2,9 @@
 toc: false
 layout: post
 title: Sprint 2 Issue
-type: issues
+type: ccc
 permalink: /sprint2issue
-courses: {csa: {week: 7}}
+courses: {csa: {week: 8}}
 ---
 | **Assignment**             | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
