@@ -7,15 +7,6 @@ permalink: /projectbackendoverview
 courses: {csa: {week: 10}}
 ---
 
----
-toc: false
-layout: post
-title: Project Backend Overview
-type: collab
-permalink: /projectbackendoverview
-courses: {csa: {week: 10}}
----
-
 # Student Management API Documentation
 
 ## Overview
