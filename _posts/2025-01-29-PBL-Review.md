@@ -73,9 +73,21 @@ courses: {csa: {week: 19}}
         </ul>
     </div>
     <p>Project is nearing completion! Excited for final testing and deployment.</p>
+    <div class="task-section">
+    <h2>📌 Proof of Collaboration</h2>
+    <ul>
+        <img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 9.46.45 AM.png" alt="drawing" width="400"/>
+        <br>
+        <img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 9.48.02 AM.png" alt="drawing" width="400"/>
+        <br>
+        <img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 9.49.46 AM copy.png" alt="drawing" width="400"/>
+    </ul>
+    </div>
 </body>
 
-# Proof of Collaboration
-![alt text](</NitinBstudent_2025/images/Screenshot 2025-01-29 at 9.46.45 AM.png>)
-![alt text](</NitinBstudent_2025/images/Screenshot 2025-01-29 at 9.48.02 AM.png>)
-![alt text](</NitinBstudent_2025/images/Screenshot 2025-01-29 at 9.49.46 AM copy.png>)
+## Personal Bundown
+<img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 10.07.31 AM.png" alt="drawing" width="400"/>
+<br>
+<img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 10.08.36 AM.png" alt="drawing" width="400"/>
+<br>
+<img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 10.09.32 AM.png" alt="drawing" width="400"/>
