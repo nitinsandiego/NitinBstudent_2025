@@ -86,8 +86,11 @@ courses: {csa: {week: 19}}
 </body>
 
 ## Personal Bundown
+This is the home page, where you can navigate to tables or search for specifc students.
 <img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 10.07.31 AM.png" alt="drawing" width="400"/>
 <br>
 <img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 10.08.36 AM.png" alt="drawing" width="400"/>
 <br>
 <img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 10.09.32 AM.png" alt="drawing" width="400"/>
+<br>
+<img src="/NitinBstudent_2025/images/Screenshot 2025-01-29 at 10.27.21 AM.png" alt="drawing" width="400"/>
