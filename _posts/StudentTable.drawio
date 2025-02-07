@@ -80,7 +80,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Queue Page&lt;/span&gt;&lt;br&gt;Buttons that can be either individual or trios&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-                    <mxGeometry x="1000" y="20" width="240" height="200" as="geometry"/>
+                    <mxGeometry x="1210" y="25" width="240" height="200" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="1" source="30" target="32">
                     <mxGeometry relative="1" as="geometry"/>
