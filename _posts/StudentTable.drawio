@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="JZCFE4c6fxL9Ami2ZndD" name="Page-1">
-        <mxGraphModel dx="1533" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1400" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -59,42 +59,63 @@
                     <mxGeometry x="460" y="410" width="200" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="# of commits" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="490" y="220" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="860" y="220" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="# of public repoes" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="620" y="270" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="760" y="120" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="# of Github followers" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="750" y="130" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="730" y="40" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="# of Public gists" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="760" y="50" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="620" y="-30" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="Github username" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="470" y="-40" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="330" y="-120" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="Github URL" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="650" y="-40" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="480" y="-80" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="29" target="30">
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;" parent="1" source="29" target="30" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Queue Page&lt;/span&gt;&lt;br&gt;Buttons that can be either individual or trios&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                <mxCell id="29" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Queue Page&lt;/span&gt;&lt;br&gt;Buttons that can be either individual or trios&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
                     <mxGeometry x="1210" y="25" width="240" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="" style="edgeStyle=none;html=1;fontSize=12;" edge="1" parent="1" source="30" target="32">
+                <mxCell id="33" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="30" target="32" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Students&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Trimester, username, course, period&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                <mxCell id="30" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Students&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Trimester, username, course, period&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
                     <mxGeometry x="1040" y="290" width="220" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.991;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="32" target="4">
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.991;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="32" target="4" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="703.7931034482758" y="190" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Profile Picture&lt;br&gt;&lt;/font&gt;When clicked, redirects to analytics" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                <mxCell id="32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Profile Picture&lt;br&gt;&lt;/font&gt;When clicked, redirects to analytics" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
                     <mxGeometry x="820" y="390" width="180" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="36" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=none;html=1;fontSize=18;" edge="1" parent="1" source="36" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=none;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="36" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="36" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="36" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="36" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Github API&lt;br&gt;Octokit returrns data we need&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="-130" width="190" height="110" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
