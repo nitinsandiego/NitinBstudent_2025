@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="JZCFE4c6fxL9Ami2ZndD" name="Page-1">
-        <mxGraphModel dx="1400" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1398" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -41,7 +41,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Analytics&lt;/span&gt;&lt;br&gt;Shows Github analytics" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="520" y="60" width="200" height="130" as="geometry"/>
+                    <mxGeometry x="470" y="130" width="200" height="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="7" target="10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -59,16 +59,16 @@
                     <mxGeometry x="460" y="410" width="200" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="# of commits" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="860" y="220" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="840" y="200" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="# of public repoes" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="760" y="120" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="720" y="130" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="# of Github followers" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="730" y="40" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="690" y="50" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="# of Public gists" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-                    <mxGeometry x="620" y="-30" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="570" y="-10" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="Github username" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
                     <mxGeometry x="330" y="-120" width="120" height="60" as="geometry"/>
@@ -79,7 +79,7 @@
                 <mxCell id="31" value="" style="edgeStyle=none;html=1;" parent="1" source="29" target="30" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Queue Page&lt;/span&gt;&lt;br&gt;Buttons that can be either individual or trios&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+                <mxCell id="29" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Queue Page&lt;/span&gt;&lt;br&gt;Buttons that can be either individual, trios, or groups&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
                     <mxGeometry x="1210" y="25" width="240" height="200" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="30" target="32" edge="1">
