@@ -58,6 +58,13 @@ courses: {csa: {week: 24}}
 - I really like Arnav and Jason's project because it was a project I saw being built from trimester 1. I really like what they did with it and how it progressed over the trimester.
 
 ![alt text](/NitinBstudent_2025/images/819958DD-6AF1-4BE8-BB5F-50EB88BE0697_1_105_c.jpeg)
+- This was a CSSE student that came over to our project and tried it out. He was very interest in it and I think he really liked it.
+
+![alt text](/NitinBstudent_2025/images/C1C10BA7-41D0-4AC1-9809-ECCACA966BD0_1_105_c.jpeg)
+- This was a young student who said he is interest in the path of computer science. He seems very interest in the project.
+
+![alt text](/NitinBstudent_2025/images/5908FF00-1B1F-40B7-AD22-87DA83D16BC4_1_105_c.jpeg)
+- This is me and Akhil explaing our project to a group of parents and students.
 
 # MC Work
 
