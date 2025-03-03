@@ -232,3 +232,13 @@ public boolean contains(int num) {
 
 # Next Steps
 
+- Strenths
+    - Good teamwork and good collaboration with my colleagues
+    - Good coding skills on frontend and backend
+- Weaknesses
+    - Timing on MC questions
+    - Not enough practice on FRQ questions
+    - Too reliant on ChatGPT
+
+## Personal
+
