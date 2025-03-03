@@ -31,7 +31,9 @@ courses: {csa: {week: 24}}
     - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 7.34.44 PM.png>)
     - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 10.57.36 PM.png>)
     - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 10.58.21 PM.png>)
-
+- MC Work and FRQ Work
+    - [MC Work](#mc-work)
+    - [FRQ Work](#frq-work)
 
 # Full Stack Feature Demo
 
