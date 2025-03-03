@@ -29,6 +29,8 @@ courses: {csa: {week: 24}}
 
 - ![alt text](</NitinBstudent_2025/images/imagecopy11.png>)
     - Progress code with a feature that calculates completion by comparing the number of completed tasks to the total tasks.
+- ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 7.34.44 PM.png>)
+    - Analytics feature that displays the github details of the user, including the number of commits, issues, and pull requests.
 - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 8.26.58 PM.png>)
     - ![alt text](</NitinBstudent_2025/images/image copy.png>)
     - The rating feature considers various factors like punctuality, communication, and attentiveness, enabling users to provide daily feedback in a simple and effective way.
