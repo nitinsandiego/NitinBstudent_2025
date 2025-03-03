@@ -32,6 +32,8 @@ My score: 36/39
 
 While my score is good, I believe I have a lot of things to work on still. One, my timing was very poor and I spent too much time working out each problem. Even though each problem is complex and requieres a lot of thinking and working out, I must practice even more to work through them faster and be ready for the AP Exams.
 
+### Corrections
+
 # FRQ Work
 
 ## Question 1 Answers
