@@ -13,9 +13,14 @@ courses: {csa: {week: 24}}
 </style>
 # 5 Things I did over 12 Weeks
 
+- [Methods and Control Strutures FRQ](https://nighthawkcoders.github.io/portfolio_2025/methods-and-control-structures-frq)
+    - First Team to go over FRQS. I would like to say we laid out an example for everyone as we were the first team to go over the FRQs. Most groups that followed went with our teaching style of working through the problem and coding it with them in class.
 - ![Analytics](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 7.29.57 PM.png>), ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 7.34.44 PM.png>), ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 10.57.36 PM.png>), ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 10.58.21 PM.png>)
     - Beginning of the trimester, I mainly worked on the frontend repo. Halfway through the trimester, I started working on the backend repo. I worked on the backend repo for the rest of the trimester.
 - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 11.16.21 PM.png>)
+    - This is a visual representation of our burndown list. For the first half of the trimester, we were completeting tasks at a very good rate. However, after this, I was tasked with working on the backend, which increased our number of tasks. However, we were able to all of it. The reason the graph is not at O is because eventhough we are done with all of our tasks, there is always room for improvement.
+    - [Burndown List](https://github.com/AdityaSamavedam/adityacsastudent/issues/11#issue-2882755447)
+- 
 
 # Full Stack Feature Demo
 
