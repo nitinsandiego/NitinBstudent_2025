@@ -69,6 +69,11 @@ courses: {csa: {week: 24}}
 ![alt text](/NitinBstudent_2025/images/5908FF00-1B1F-40B7-AD22-87DA83D16BC4_1_105_c.jpeg)
 - This is me and Akhil explaing our project to a group of parents and students.
 
+- Feedback
+    - Frontend cards can be placed better to make it look more organized.
+    - The project is very interesting and the students really like it.
+    - Project is very good and will be useful for Mr. Mort
+
 # MC Work
 
 My score: 36/39
