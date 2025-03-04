@@ -19,7 +19,7 @@ courses: {csa: {week: 24}}
     - First Team to go over FRQS. I would like to say we laid out an example for everyone as we were the first team to go over the FRQs. Most groups that followed went with our teaching style of working through the problem and coding it with them in class.
     - [Student Panel Blog](/NitinBstudent_2025/2025/01/10/College-Panel-Blog.html)
 - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 11.16.21 PM.png>)
-    - This is a visual representation of our burndown list. For the first half of the trimester, we were completeting tasks at a very good rate. However, after this, I was tasked with working on the backend, which increased our number of tasks. However, we were able to all of it. The reason the graph is not at O is because eventhough we are done with all of our tasks, there is always room for improvement.
+    - This is a visual representation of our burndown list. For the first half of the trimester, we were completeting tasks at a very good rate. However, after this, I was tasked with working on the backend, which increased our number of tasks. However, we were able to all of it. The reason the graph is not at 0 is because eventhough we are done with all of our tasks, there is always room for improvement.
     - [Burndown List](https://github.com/AdityaSamavedam/adityacsastudent/issues/11#issue-2882755447)
 - Thyme Leaf Integration and Queue Management integration
     - Before: ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-03 at 8.11.55 AM.png>)
