@@ -3,6 +3,7 @@ toc: True
 layout: post
 title: Final Retrospective
 type: issues
+comments: true
 courses: {csa: {week: 24}}
 ---
 
@@ -258,5 +259,6 @@ public boolean contains(int num) {
 
 - 4.52/5 I feel my summary of what I did over the 12 weeks is in-depth and gives a really a good overview of the products I worked on and the skills I learned.
 - 1.8/2 My project is running with no bugs and we also got a lot of good feedback from Night at the Museum.
-- 0.92/2 My key feature was very well represented through my DrawIO diagram and I think it was very well explained.
-- 
+- 0.92/1 My key feature was very well represented through my DrawIO diagram and I think it was very well explained.
+- 0.91/1 My work on the MCs and FRQ was very good, but I also think I need to work on timing and practice more. My reflection on the MCs and FRQs is very indepth.
+- 0.92/1 I sent my summary 24 hours prior to meeting. I also peer revied with Josh as we both helped prepare each other for the final retrospective. I also took an interest in Arnav's project as it was a project I saw being built from trimester 1. I really like what they did with it and how it progressed over the trimester. I highlighted my goals moving forward in computer science, and how I want to grow my skills in AI.
