@@ -250,4 +250,7 @@ public boolean contains(int num) {
 - Internships
     - Right now, I have an internship at Northrop Grumman
     - I would also like to get an internship at a company that specializes in AI or Machine Learning, like Google or Microsoft
-    
+
+# Self Assessment
+
+
