@@ -30,7 +30,7 @@ courses: {csa: {week: 24}}
     - After: ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-03 at 8.22.33 AM.png>)
     - Queue Management Integration: ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 8.30.18 PM.png>)
 - Beginning of the trimester, I mainly worked on the frontend repo. Halfway through the trimester, I started working on the backend repo. I worked on the backend repo for the rest of the trimester.
-    - ![Analytics](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 7.29.57 PM.png>)
+    - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-03 at 5.49.13 PM.png>)
     - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 7.34.44 PM.png>)
     - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 10.57.36 PM.png>)
     - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 10.58.21 PM.png>)
