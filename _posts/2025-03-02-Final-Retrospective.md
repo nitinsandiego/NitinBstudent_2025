@@ -242,3 +242,12 @@ public boolean contains(int num) {
 
 ## Personal
 
+- Interests
+    - AI: I want to learn more about AI and how it can be used in the real world. It is a very fast-growing field and I want to be a part of it.
+    - Machine Learning: Even though it is a bit of an older field, I still want to learn more about it and how it can be used in the real world.
+- Classes
+    - I would like to take more classes on AI or Data Science to learn about that field more
+- Internships
+    - Right now, I have an internship at Northrop Grumman
+    - I would also like to get an internship at a company that specializes in AI or Machine Learning, like Google or Microsoft
+    
