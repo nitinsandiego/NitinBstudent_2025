@@ -13,8 +13,10 @@ courses: {csa: {week: 24}}
 </style>
 # 5 Things I did over 12 Weeks
 
-- [Methods and Control Strutures FRQ](https://nighthawkcoders.github.io/portfolio_2025/methods-and-control-structures-frq)
+- Presentations
+    - [Methods and Control Strutures FRQ](https://nighthawkcoders.github.io/portfolio_2025/methods-and-control-structures-frq)
     - First Team to go over FRQS. I would like to say we laid out an example for everyone as we were the first team to go over the FRQs. Most groups that followed went with our teaching style of working through the problem and coding it with them in class.
+    - [Student Panel Blog](/NitinBstudent_2025/2025/01/10/College-Panel-Blog.html)
 - ![alt text](</NitinBstudent_2025/images/Screenshot 2025-03-02 at 11.16.21 PM.png>)
     - This is a visual representation of our burndown list. For the first half of the trimester, we were completeting tasks at a very good rate. However, after this, I was tasked with working on the backend, which increased our number of tasks. However, we were able to all of it. The reason the graph is not at O is because eventhough we are done with all of our tasks, there is always room for improvement.
     - [Burndown List](https://github.com/AdityaSamavedam/adityacsastudent/issues/11#issue-2882755447)
@@ -254,3 +256,7 @@ public boolean contains(int num) {
 # Self Assessment
 
 
+- 4.52/5 I feel my summary of what I did over the 12 weeks is in-depth and gives a really a good overview of the products I worked on and the skills I learned.
+- 1.8/2 My project is running with no bugs and we also got a lot of good feedback from Night at the Museum.
+- 0.92/2 My key feature was very well represented through my DrawIO diagram and I think it was very well explained.
+- 
