@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="jvfPtSKAwpaaLNeFRr7d" name="Page-1">
-        <mxGraphModel dx="1683" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2620" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -62,7 +62,7 @@
                 </mxCell>
                 <UserObject label="&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://private-user-images.githubusercontent.com/76639609/430221640-31090e08-cc83-4ea0-bd20-ea13d9234f04.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU0NzEzNDUsIm5iZiI6MTc0NTQ3MTA0NSwicGF0aCI6Ii83NjYzOTYwOS80MzAyMjE2NDAtMzEwOTBlMDgtY2M4My00ZWEwLWJkMjAtZWExM2Q5MjM0ZjA0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI0VDA1MDQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhMjQyM2FkYjU5ODJjYjBmMDI3OGRlZTIzMTExODRjMDcwYzBmMTM5ZjhhMmI0YTI1MzcyMDQwZDBmZmIwZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uBy3kD3WrcdDDVJZgsoagmg8w9VwMjuszQxuFpHYJYU&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: var(--fgColor-accent, var(--color-accent-fg)); text-decoration: underline; text-underline-offset: 0.2rem; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 14px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;&lt;img src=&quot;https://private-user-images.githubusercontent.com/76639609/430221640-31090e08-cc83-4ea0-bd20-ea13d9234f04.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU0NzEzNDUsIm5iZiI6MTc0NTQ3MTA0NSwicGF0aCI6Ii83NjYzOTYwOS80MzAyMjE2NDAtMzEwOTBlMDgtY2M4My00ZWEwLWJkMjAtZWExM2Q5MjM0ZjA0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI0VDA1MDQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhMjQyM2FkYjU5ODJjYjBmMDI3OGRlZTIzMTExODRjMDcwYzBmMTM5ZjhhMmI0YTI1MzcyMDQwZDBmZmIwZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uBy3kD3WrcdDDVJZgsoagmg8w9VwMjuszQxuFpHYJYU&quot; alt=&quot;Image&quot; style=&quot;box-sizing: content-box; border-style: none; max-width: 100%;&quot;&gt;&lt;/a&gt;" link="&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://private-user-images.githubusercontent.com/76639609/430221640-31090e08-cc83-4ea0-bd20-ea13d9234f04.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU0NzEzNDUsIm5iZiI6MTc0NTQ3MTA0NSwicGF0aCI6Ii83NjYzOTYwOS80MzAyMjE2NDAtMzEwOTBlMDgtY2M4My00ZWEwLWJkMjAtZWExM2Q5MjM0ZjA0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI0VDA1MDQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhMjQyM2FkYjU5ODJjYjBmMDI3OGRlZTIzMTExODRjMDcwYzBmMTM5ZjhhMmI0YTI1MzcyMDQwZDBmZmIwZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uBy3kD3WrcdDDVJZgsoagmg8w9VwMjuszQxuFpHYJYU&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: var(--fgColor-accent, var(--color-accent-fg)); text-decoration: underline; text-underline-offset: 0.2rem; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 14px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;&lt;img src=&quot;https://private-user-images.githubusercontent.com/76639609/430221640-31090e08-cc83-4ea0-bd20-ea13d9234f04.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU0NzEzNDUsIm5iZiI6MTc0NTQ3MTA0NSwicGF0aCI6Ii83NjYzOTYwOS80MzAyMjE2NDAtMzEwOTBlMDgtY2M4My00ZWEwLWJkMjAtZWExM2Q5MjM0ZjA0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI0VDA1MDQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhMjQyM2FkYjU5ODJjYjBmMDI3OGRlZTIzMTExODRjMDcwYzBmMTM5ZjhhMmI0YTI1MzcyMDQwZDBmZmIwZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uBy3kD3WrcdDDVJZgsoagmg8w9VwMjuszQxuFpHYJYU&quot; alt=&quot;Image&quot; style=&quot;box-sizing: content-box; border-style: none; max-width: 100%;&quot;&gt;&lt;/a&gt;" id="ecSPx89vqx9fiu82OKQT-20">
                     <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                        <mxGeometry x="730" y="580" width="340" height="240" as="geometry"/>
+                        <mxGeometry x="730" y="580" width="340" height="190" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="ecSPx89vqx9fiu82OKQT-21" style="edgeStyle=none;html=1;entryX=0.444;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ecSPx89vqx9fiu82OKQT-13" target="ecSPx89vqx9fiu82OKQT-20">
@@ -97,25 +97,41 @@
                 <mxCell id="ecSPx89vqx9fiu82OKQT-34" style="edgeStyle=none;html=1;entryX=0.587;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ecSPx89vqx9fiu82OKQT-16" target="ecSPx89vqx9fiu82OKQT-22">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ecSPx89vqx9fiu82OKQT-44" style="edgeStyle=none;html=1;entryX=0.358;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.518;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ecSPx89vqx9fiu82OKQT-40" target="ecSPx89vqx9fiu82OKQT-24">
+                <mxCell id="ecSPx89vqx9fiu82OKQT-44" style="edgeStyle=none;html=1;exitX=0.518;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ecSPx89vqx9fiu82OKQT-40">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="-460" y="770" as="targetPoint"/>
+                        <mxPoint x="-444" y="762" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="ecSPx89vqx9fiu82OKQT-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Content is now more spaced out. Layout is easier to use and better to view. Also, styling and colors match unified layout&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="-600" y="820" width="290" height="110" as="geometry"/>
+                    <mxGeometry x="-620" y="823" width="340" height="170" as="geometry"/>
                 </mxCell>
                 <mxCell id="ecSPx89vqx9fiu82OKQT-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Content is now more organized and spaced out. Now, all buttons and functions match styling of unified layout. Also, the new layout provides better functionality&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="-150" y="800" width="350" height="150" as="geometry"/>
+                    <mxGeometry x="-150" y="820" width="350" height="150" as="geometry"/>
                 </mxCell>
                 <mxCell id="ecSPx89vqx9fiu82OKQT-48" style="edgeStyle=none;html=1;" edge="1" parent="1" source="ecSPx89vqx9fiu82OKQT-45" target="ecSPx89vqx9fiu82OKQT-26">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="ecSPx89vqx9fiu82OKQT-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Content now has correct colors according to unified layout. Layout of table has also changed to improve better functionality&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="230" y="830" width="350" height="110" as="geometry"/>
+                    <mxGeometry x="230" y="855" width="350" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="ecSPx89vqx9fiu82OKQT-51" style="edgeStyle=none;html=1;entryX=0.464;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ecSPx89vqx9fiu82OKQT-49" target="ecSPx89vqx9fiu82OKQT-29">
                     <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ecSPx89vqx9fiu82OKQT-55" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ecSPx89vqx9fiu82OKQT-52">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="900" y="772" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ecSPx89vqx9fiu82OKQT-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Layout has now completely changed. New layout is more organized and is simpler to use and to view. Colors also match layout and color format of ansering/entering details style&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="725" y="832" width="350" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="ecSPx89vqx9fiu82OKQT-57" style="edgeStyle=none;html=1;" edge="1" parent="1" source="ecSPx89vqx9fiu82OKQT-56">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1415" y="770" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ecSPx89vqx9fiu82OKQT-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Layout has completely changed. Layout is now much simpler and easier to use. Colors match the format styling. Potential to simplify even further by removing student name box by extracting name from cookies.&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1240" y="820" width="350" height="180" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
