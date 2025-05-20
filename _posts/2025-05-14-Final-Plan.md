@@ -19,3 +19,4 @@ comments: true
 - **Talk with other people in my team and determine if their previous code is still relevant**
     - A lot of Sharon's, Eshaan's, and Kayden's old code is still in the repository, and I will need their help to determine if it is still relevant
         - If it is not relevant, I will need to remove it, so that we can have a clean repository
+        
