@@ -12,3 +12,4 @@ comments: true
 - [Selection Big 0]({{site.baseurl}}2025/03/24/Selection-Big-O_IPYNB_2_.html)
 - [Merge Sort]({{site.baseurl}}2025/03/25/Merge-Sort_IPYNB_2_.html)
 - [Graphs]({{site.baseurl}}2025/05/23/Graphs_IPYNB_2_.html)
+- [Wine Homework]({{site.baseurl}}2025/05/30/WineHomework_IPYNB_2_.html)
